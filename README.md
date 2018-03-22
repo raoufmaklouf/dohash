@@ -1,0 +1,2 @@
+# dohash
+ Hash Generator
